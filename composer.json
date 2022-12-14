@@ -1,0 +1,16 @@
+{
+    "name": "elenatursunova/exercise-03",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Elenatursunova\\Exercise03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elena Tursunova",
+            "email": "elenatursunova@gmail.com"
+        }
+    ],
+    "require": {}
+}
